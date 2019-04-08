@@ -1,1 +1,1 @@
-# gitskill
+# Note for data mining
